@@ -1,0 +1,4246 @@
+[
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 1,
+    "student_name": "Riya Kumari",
+    "father_name": "Mr. Birendra Sah",
+    "mother_name": "Mrs. Rinki Devi",
+    "result_summary": {
+      "total_marks": 592,
+      "out_of": 800,
+      "percentage": 74.0,
+      "overall_grade": "B1",
+      "result": "PASS",
+      "rank": 1
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 5,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 34,
+        "total_100": 52,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 67,
+        "total_100": 85,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 76,
+        "total_100": 92,
+        "grade": "A1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 55,
+        "total_100": 67,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 3,
+        "pt2": 5,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 32,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 55,
+        "total_100": 72,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 66,
+        "total_100": 81,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 75,
+        "total_100": 93,
+        "grade": "A1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "B",
+      "uniform": "A",
+      "sports": "A",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 128,
+      "absent": 4
+    },
+    "teacher_remark": "Very good performance by Riya. Regular revision will make it even better.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 2,
+    "student_name": "Nadra Praveen",
+    "father_name": "Mr. Shafi Alam",
+    "mother_name": "Mrs. Raisha Khatoon",
+    "result_summary": {
+      "total_marks": 507,
+      "out_of": 800,
+      "percentage": 63.38,
+      "overall_grade": "B2",
+      "result": "PASS",
+      "rank": 5
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 40,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 51,
+        "total_100": 69,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 0,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 73,
+        "total_100": 87,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 60,
+        "total_100": 72,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 51,
+        "total_100": 64,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 31,
+        "total_100": 43,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 40,
+        "total_100": 55,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 5,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 43,
+        "total_100": 61,
+        "grade": "B2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 122,
+      "absent": 10
+    },
+    "teacher_remark": "Good effort by Nadra. Needs regular practice to reach a higher level. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 3,
+    "student_name": "Rishi Kumar",
+    "father_name": "Mr. Ravi Prasad",
+    "mother_name": "Mrs. Dimpal Devi",
+    "result_summary": {
+      "total_marks": 520,
+      "out_of": 800,
+      "percentage": 65.0,
+      "overall_grade": "B2",
+      "result": "PASS",
+      "rank": 4
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 45,
+        "total_100": 55,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 86,
+        "total_100": 96,
+        "grade": "A1",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 56,
+        "total_100": 72,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 42,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 36,
+        "total_100": 51,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 32,
+        "total_100": 46,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 50,
+        "total_100": 60,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 74,
+        "total_100": 84,
+        "grade": "A2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "B",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 129,
+      "absent": 3
+    },
+    "teacher_remark": "Rishi has shown good progress. Regular practice and revision will give better results. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 4,
+    "student_name": "Rupam Kumari",
+    "father_name": "Mr. Ninash Kumar",
+    "mother_name": "Mrs. Mamta Devi",
+    "result_summary": {
+      "total_marks": 568,
+      "out_of": 800,
+      "percentage": 71.0,
+      "overall_grade": "B1",
+      "result": "PASS",
+      "rank": 2
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 47,
+        "total_100": 64,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 59,
+        "total_100": 75,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 5,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 76,
+        "total_100": 95,
+        "grade": "A1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 0,
+        "pt2": 1,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 60,
+        "total_100": 71,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 41,
+        "total_100": 57,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 61,
+        "total_100": 77,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 52,
+        "total_100": 67,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 45,
+        "total_100": 62,
+        "grade": "B2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "A",
+      "music": "B",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 126,
+      "absent": 6
+    },
+    "teacher_remark": "Rupam has performed very well and shows good understanding. A little more practice will bring top results.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 5,
+    "student_name": "Dipanshu Kumar",
+    "father_name": "Mr. Sarvesh Kumar",
+    "mother_name": "Mrs. Nitu Devi",
+    "result_summary": {
+      "total_marks": 400,
+      "out_of": 800,
+      "percentage": 50.0,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 11
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 34,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 29,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 52,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 54,
+        "total_100": 63,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 3,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 45,
+        "total_100": 57,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 35,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 40,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 118,
+      "absent": 14
+    },
+    "teacher_remark": "Dipanshu is making steady effort but needs more practice and regular revision. Give more time to English.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 6,
+    "student_name": "Sona Kumari",
+    "father_name": "Mr. Ravindra Kumar",
+    "mother_name": "Mrs. Priyanka Kumari",
+    "result_summary": {
+      "total_marks": 344,
+      "out_of": 800,
+      "percentage": 43.0,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 21
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 35,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 41,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 50,
+        "total_100": 61,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 5,
+        "total_100": 17,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 28,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 57,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 122,
+      "absent": 10
+    },
+    "teacher_remark": "Sona has the ability to improve with regular study and hard work. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 7,
+    "student_name": "Anupriya Kumari",
+    "father_name": "Mr. Sarvesh Kumar",
+    "mother_name": "Mrs. Guddi Devi",
+    "result_summary": {
+      "total_marks": 373,
+      "out_of": 800,
+      "percentage": 46.62,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 16
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 46,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 48,
+        "total_100": 62,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 40,
+        "total_100": 53,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 38,
+        "total_100": 51,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 10,
+        "total_100": 22,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 34,
+        "total_100": 48,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 125,
+      "absent": 7
+    },
+    "teacher_remark": "Anupriya can do better with more attention and daily practice. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 8,
+    "student_name": "Rishi Kumar",
+    "father_name": "Mr. Prabhu Kumar",
+    "mother_name": "Mrs. Pushpa Bharti",
+    "result_summary": {
+      "total_marks": 496,
+      "out_of": 800,
+      "percentage": 62.0,
+      "overall_grade": "B2",
+      "result": "PASS",
+      "rank": 6
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 5,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 38,
+        "total_100": 57,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 22,
+        "total_100": 38,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 5,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 65,
+        "total_100": 84,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 75,
+        "total_100": 92,
+        "grade": "A1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 28,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 48,
+        "total_100": 65,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 52,
+        "total_100": 66,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 36,
+        "total_100": 52,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "A",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 123,
+      "absent": 9
+    },
+    "teacher_remark": "Good effort by Rishi. Needs regular practice to reach a higher level. Give more time to English.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 9,
+    "student_name": "Rikki Kumari",
+    "father_name": "Mr. Ranjeet Kumar",
+    "mother_name": "Mrs. Rani Kumari",
+    "result_summary": {
+      "total_marks": 415,
+      "out_of": 800,
+      "percentage": 51.88,
+      "overall_grade": "C1",
+      "result": "PASS",
+      "rank": 9
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 27,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 68,
+        "total_100": 84,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 47,
+        "total_100": 60,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 33,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 58,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 115,
+      "absent": 17
+    },
+    "teacher_remark": "Rikki is sincere and doing well. More effort will bring further improvement. Give more time to Hindi.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 10,
+    "student_name": "Khushi Praveen",
+    "father_name": "Mr. Md. Munna",
+    "mother_name": "Mrs. Chanda Praveen",
+    "result_summary": {
+      "total_marks": 381,
+      "out_of": 800,
+      "percentage": 47.62,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 13
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 72,
+        "total_100": 87,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 3,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 53,
+        "total_100": 65,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 19,
+        "total_100": 31,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 55,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 33,
+        "total_100": 45,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "B",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 105,
+      "absent": 27
+    },
+    "teacher_remark": "Khushi can do better with more attention and daily practice. Give more time to English.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 11,
+    "student_name": "Nancy Kumari",
+    "father_name": "Mr. Suraj Kumar",
+    "mother_name": "Mrs. Neha Kumari",
+    "result_summary": {
+      "total_marks": 326,
+      "out_of": 800,
+      "percentage": 40.75,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 25
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 32,
+        "total_100": 43,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 66,
+        "total_100": 81,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 14,
+        "total_100": 27,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 8,
+        "total_100": 20,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 112,
+      "absent": 20
+    },
+    "teacher_remark": "Nancy should study regularly and take extra guidance. Improvement is possible with hard work.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 12,
+    "student_name": "Priya Kumari",
+    "father_name": "Mr. Shushil Yadav",
+    "mother_name": "Mrs. Puja Devi",
+    "result_summary": {
+      "total_marks": 317,
+      "out_of": 800,
+      "percentage": 39.62,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 28
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 41,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 69,
+        "total_100": 80,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 0,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 35,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 19,
+        "total_100": 31,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 10,
+        "total_100": 23,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 29,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 37,
+        "total_100": 48,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "B",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 98,
+      "absent": 34
+    },
+    "teacher_remark": "Priya needs to work harder and revise daily. With support at home, improvement is possible.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 13,
+    "student_name": "Raushani Praveen",
+    "father_name": "Mr. Md. Mojahid Hussain",
+    "mother_name": "Mrs. Chandani Praveen",
+    "result_summary": {
+      "total_marks": 341,
+      "out_of": 800,
+      "percentage": 42.62,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 22
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 58,
+        "total_100": 73,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 31,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 35,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 38,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 119,
+      "absent": 13
+    },
+    "teacher_remark": "Raushani can do better with more attention and daily practice. Give more time to Hindi.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 14,
+    "student_name": "Shivam Kumar",
+    "father_name": "Mr. Ranjan Kumar",
+    "mother_name": "Mrs. Nithu Devi",
+    "result_summary": {
+      "total_marks": 328,
+      "out_of": 700,
+      "percentage": 46.86,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 15
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 38,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 66,
+        "total_100": 82,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 0,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 49,
+        "total_100": 58,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 21,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 38,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 107,
+      "absent": 25
+    },
+    "teacher_remark": "Shivam is making steady effort but needs more practice and regular revision. Give more time to Social Science.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 15,
+    "student_name": "Ayush Kumar",
+    "father_name": "Mr. Dharmendra Prasad",
+    "mother_name": "Mrs. Archana Devi",
+    "result_summary": {
+      "total_marks": 319,
+      "out_of": 800,
+      "percentage": 39.88,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 27
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 26,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 32,
+        "total_100": 41,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 65,
+        "total_100": 80,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 50,
+        "total_100": 61,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 0,
+        "total_100": 12,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 8,
+        "total_100": 16,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 36,
+        "total_100": 46,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 113,
+      "absent": 19
+    },
+    "teacher_remark": "Ayush should study regularly and take extra guidance. Improvement is possible with hard work.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 16,
+    "student_name": "Sneety Kumari",
+    "father_name": "Mr. Santosh Prasad",
+    "mother_name": "Mrs. Prity Devi",
+    "result_summary": {
+      "total_marks": 350,
+      "out_of": 800,
+      "percentage": 43.75,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 20
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 10,
+        "total_100": 23,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 27,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 69,
+        "total_100": 84,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 54,
+        "total_100": 64,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 14,
+        "total_100": 25,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 46,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 125,
+      "absent": 7
+    },
+    "teacher_remark": "Sneety can do better with more attention and daily practice. Give more time to Hindi.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 17,
+    "student_name": "Arush Kumar",
+    "father_name": "Mr. Vidyanand Kumar",
+    "mother_name": "Mrs. Munita Kumari",
+    "result_summary": {
+      "total_marks": 336,
+      "out_of": 800,
+      "percentage": 42.0,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 23
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 5,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 27,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 5,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 38,
+        "total_100": 53,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 40,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 38,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 36,
+        "total_100": 46,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 121,
+      "absent": 11
+    },
+    "teacher_remark": "Arush is making steady effort but needs more practice and regular revision. Give more time to Social Science.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 18,
+    "student_name": "Anjali Kumari",
+    "father_name": "Mr. Dasai Sah",
+    "mother_name": "Mrs. Anita Devi",
+    "result_summary": {
+      "total_marks": 281,
+      "out_of": 800,
+      "percentage": 35.12,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 31
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 7,
+        "total_100": 20,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 45,
+        "total_100": 61,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 5,
+        "total_100": 17,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 22,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 28,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 120,
+      "absent": 12
+    },
+    "teacher_remark": "Anjali needs to work harder and revise daily. With support at home, improvement is possible.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 19,
+    "student_name": "Anupriya Rani",
+    "father_name": "Mr. Santosh Kumar",
+    "mother_name": "Mrs. Shobha Kumari",
+    "result_summary": {
+      "total_marks": 387,
+      "out_of": 800,
+      "percentage": 48.38,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 12
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 36,
+        "total_100": 51,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 59,
+        "total_100": 74,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 35,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 4,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 38,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 5,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 55,
+        "total_100": 71,
+        "grade": "B1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "B",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 97,
+      "absent": 35
+    },
+    "teacher_remark": "Anupriya can do better with more attention and daily practice. Give more time to Social Science.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 20,
+    "student_name": "Saurav Kumar",
+    "father_name": "Mr. Shushil Yadav",
+    "mother_name": "Mrs. Reena Devi",
+    "result_summary": {
+      "total_marks": 281,
+      "out_of": 700,
+      "percentage": 40.14,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 26
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 29,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 59,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 10,
+        "total_100": 22,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 13,
+        "total_100": 25,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 55,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "B",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 101,
+      "absent": 31
+    },
+    "teacher_remark": "Saurav needs to work harder and revise daily. With support at home, improvement is possible.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 21,
+    "student_name": "Sunny Kumar",
+    "father_name": "Mr. Suraj Kumar",
+    "mother_name": "Mrs. Munni Devi",
+    "result_summary": {
+      "total_marks": 298,
+      "out_of": 800,
+      "percentage": 37.25,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 30
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 31,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 37,
+        "total_100": 48,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 37,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 33,
+        "total_100": 43,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 16,
+        "total_100": 27,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 6,
+        "total_100": 17,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 34,
+        "total_100": 45,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 0,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "B",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 105,
+      "absent": 27
+    },
+    "teacher_remark": "Sunny should study regularly and take extra guidance. Improvement is possible with hard work.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 22,
+    "student_name": "Shiddhi Kumari",
+    "father_name": "Mr. Guddu Kumar",
+    "mother_name": "Mrs. Pooja Kumari",
+    "result_summary": {
+      "total_marks": 235,
+      "out_of": 800,
+      "percentage": 29.38,
+      "overall_grade": "E",
+      "result": "FAIL",
+      "rank": 33
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 25,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 11,
+        "total_100": 20,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 43,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 24,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 2,
+        "total_100": 13,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 29,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "B",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 99,
+      "absent": 33
+    },
+    "teacher_remark": "Shiddhi needs special attention and regular practice in all subjects. Parents are requested to help at home.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 23,
+    "student_name": "Monu Kumar",
+    "father_name": "Mr. Sujeet Raj",
+    "mother_name": "Mrs. Neetu Devi",
+    "result_summary": {
+      "total_marks": 317,
+      "out_of": 800,
+      "percentage": 39.62,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 28
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 26,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 59,
+        "total_100": 70,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 44,
+        "total_100": 53,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 25,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 0,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 5,
+        "total_100": 14,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 43,
+        "total_100": 51,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 35,
+        "total_100": 45,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "C",
+      "sports": "C",
+      "discipline": "C"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 67,
+      "absent": 65
+    },
+    "teacher_remark": "Monu should study regularly and take extra guidance. Improvement is possible with hard work.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 24,
+    "student_name": "Shubham Kumar",
+    "father_name": "Mr. Bhushan Kumar",
+    "mother_name": "Mrs. Sangita Devi",
+    "result_summary": {
+      "total_marks": 248,
+      "out_of": 800,
+      "percentage": 31.0,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 32
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 16,
+        "total_100": 29,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 21,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 35,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 28,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 15,
+        "total_100": 27,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 0,
+        "total_100": 10,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 5,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 27,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 122,
+      "absent": 10
+    },
+    "teacher_remark": "Shubham needs to work harder and revise daily. With support at home, improvement is possible.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 25,
+    "student_name": "Raunak Kumar",
+    "father_name": "Mr. Rahul Singh",
+    "mother_name": "Mrs. Rinki Devi",
+    "result_summary": {
+      "total_marks": 376,
+      "out_of": 800,
+      "percentage": 47.0,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 14
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 21,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 63,
+        "total_100": 79,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 28,
+        "total_100": 41,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 50,
+        "total_100": 63,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 16,
+        "total_100": 29,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 32,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 40,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "B",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 98,
+      "absent": 34
+    },
+    "teacher_remark": "Raunak can do better with more attention and daily practice. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 26,
+    "student_name": "Riya Kumari",
+    "father_name": "Mr. Bhottu Kumar",
+    "mother_name": "Mrs. Pooja Devi",
+    "result_summary": null,
+    "marks_entered": false,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "English",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Maths",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Science",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "G.K.",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Computer",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      }
+    ],
+    "co_scholastic": null,
+    "attendance": {
+      "working_days": 132,
+      "present": null,
+      "absent": null
+    },
+    "teacher_remark": "",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 27,
+    "student_name": "Manish Kumar",
+    "father_name": "Mr. Ravikant Roy",
+    "mother_name": "Mrs. Lakshmi Devi",
+    "result_summary": {
+      "total_marks": 327,
+      "out_of": 800,
+      "percentage": 40.88,
+      "overall_grade": "D",
+      "result": "PASS",
+      "rank": 24
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 29,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 57,
+        "total_100": 70,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 30,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 8,
+        "total_100": 21,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 5,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 35,
+        "total_100": 50,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 112,
+      "absent": 20
+    },
+    "teacher_remark": "Manish should study regularly and take extra guidance. Improvement is possible with hard work.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 28,
+    "student_name": "Pushkar Anand",
+    "father_name": "Mr. Pankaj Kumar",
+    "mother_name": "Mrs. Chandani Kumari",
+    "result_summary": {
+      "total_marks": 409,
+      "out_of": 800,
+      "percentage": 51.12,
+      "overall_grade": "C1",
+      "result": "PASS",
+      "rank": 10
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 38,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 18,
+        "total_100": 29,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 33,
+        "total_100": 47,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 64,
+        "total_100": 72,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 65,
+        "total_100": 77,
+        "grade": "B1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 119,
+      "absent": 13
+    },
+    "teacher_remark": "Good effort by Pushkar. Needs regular practice to reach a higher level. Give more time to Social Science.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 29,
+    "student_name": "Shashi Kumar",
+    "father_name": "Mr. Raju Kumar",
+    "mother_name": "Mrs. Reshmi Devi",
+    "result_summary": {
+      "total_marks": 362,
+      "out_of": 800,
+      "percentage": 45.25,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 18
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 5,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 59,
+        "total_100": 76,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 43,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 39,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 20,
+        "total_100": 31,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 120,
+      "absent": 12
+    },
+    "teacher_remark": "Shashi is making steady effort but needs more practice and regular revision. Give more time to G.K..",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 30,
+    "student_name": "Aryan Raj",
+    "father_name": "Mr. Jitendra Kumar",
+    "mother_name": "Mrs. Kusum Devi",
+    "result_summary": {
+      "total_marks": 487,
+      "out_of": 800,
+      "percentage": 60.88,
+      "overall_grade": "C1",
+      "result": "PASS",
+      "rank": 7
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 23,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 65,
+        "total_100": 82,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 58,
+        "total_100": 75,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 1,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 60,
+        "total_100": 72,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 51,
+        "total_100": 66,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 19,
+        "total_100": 32,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 5,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 56,
+        "total_100": 71,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 37,
+        "total_100": 49,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "B",
+      "sports": "B",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 102,
+      "absent": 30
+    },
+    "teacher_remark": "Aryan is sincere and doing well. More effort will bring further improvement. Give more time to Sanskrit/Urdu.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 31,
+    "student_name": "Riya Kumari",
+    "father_name": "Mr. Bhotu Prasad",
+    "mother_name": "Mrs. Puja Devi",
+    "result_summary": {
+      "total_marks": 372,
+      "out_of": 800,
+      "percentage": 46.5,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 17
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 31,
+        "total_100": 43,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 4,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 9,
+        "total_100": 21,
+        "grade": "E",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 4,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 74,
+        "total_100": 86,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 24,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 54,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 25,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 4,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 34,
+        "total_100": 49,
+        "grade": "C2",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "C",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 124,
+      "absent": 8
+    },
+    "teacher_remark": "Riya can do better with more attention and daily practice. Give more time to English.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 32,
+    "student_name": "Ravi Kumar",
+    "father_name": "Mr. Vinay Yadav",
+    "mother_name": "Mrs. Kaushlya Devi",
+    "result_summary": null,
+    "marks_entered": false,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "English",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Maths",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Science",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "G.K.",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      },
+      {
+        "subject": "Computer",
+        "pt1": null,
+        "pt2": null,
+        "multiple_assessment": null,
+        "subject_enrichment": null,
+        "summative_80": null,
+        "total_100": null,
+        "grade": null,
+        "attended": false
+      }
+    ],
+    "co_scholastic": null,
+    "attendance": {
+      "working_days": 132,
+      "present": null,
+      "absent": null
+    },
+    "teacher_remark": "",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 33,
+    "student_name": "Radhika Kumari",
+    "father_name": "Mr. Dasai Sah",
+    "mother_name": "Mrs. Anita Devi",
+    "result_summary": {
+      "total_marks": 354,
+      "out_of": 800,
+      "percentage": 44.25,
+      "overall_grade": "C2",
+      "result": "PASS",
+      "rank": 19
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 0,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 37,
+        "total_100": 49,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 30,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 3,
+        "pt2": 4,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 43,
+        "total_100": 58,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 37,
+        "total_100": 48,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 1,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 37,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 28,
+        "total_100": 42,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 3,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 22,
+        "total_100": 36,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 2,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 28,
+        "total_100": 40,
+        "grade": "D",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "C",
+      "music": "C",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "B"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 117,
+      "absent": 15
+    },
+    "teacher_remark": "Radhika has the ability to improve with regular study and hard work. Give more time to G.K..",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 34,
+    "student_name": "Krishna Kumar",
+    "father_name": "Mr. Raj Kumar Thakur",
+    "mother_name": "Mrs. Umi Kumari",
+    "result_summary": {
+      "total_marks": 563,
+      "out_of": 800,
+      "percentage": 70.38,
+      "overall_grade": "B2",
+      "result": "PASS",
+      "rank": 3
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 45,
+        "total_100": 62,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 2,
+        "pt2": 4,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 60,
+        "total_100": 76,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 5,
+        "pt2": 3,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 70,
+        "total_100": 88,
+        "grade": "A2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 60,
+        "total_100": 71,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 45,
+        "total_100": 56,
+        "grade": "C1",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 66,
+        "total_100": 78,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 64,
+        "total_100": 77,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 3,
+        "pt2": 0,
+        "multiple_assessment": 5,
+        "subject_enrichment": 5,
+        "summative_80": 42,
+        "total_100": 55,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "B",
+      "uniform": "A",
+      "sports": "B",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 115,
+      "absent": 17
+    },
+    "teacher_remark": "Krishna is sincere and doing well. More effort will bring further improvement. Give more time to Computer.",
+    "source_file": "class_2_a.docx"
+  },
+  {
+    "session": "2026 – 2027",
+    "class": "II",
+    "section": "A",
+    "roll_no": 35,
+    "student_name": "Suraj Kumar",
+    "father_name": "Mr. Ravindra Prasad",
+    "mother_name": "Mrs. Raj Kumari",
+    "result_summary": {
+      "total_marks": 433,
+      "out_of": 800,
+      "percentage": 54.12,
+      "overall_grade": "C1",
+      "result": "PASS",
+      "rank": 8
+    },
+    "marks_entered": true,
+    "subjects": [
+      {
+        "subject": "Hindi",
+        "pt1": 4,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 32,
+        "total_100": 44,
+        "grade": "C2",
+        "attended": true
+      },
+      {
+        "subject": "English",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 57,
+        "total_100": 66,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Maths",
+        "pt1": 5,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 52,
+        "total_100": 65,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Science",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 51,
+        "total_100": 61,
+        "grade": "B2",
+        "attended": true
+      },
+      {
+        "subject": "Social Sc.",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 23,
+        "total_100": 33,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Sans. / Urdu",
+        "pt1": 1,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 69,
+        "total_100": 78,
+        "grade": "B1",
+        "attended": true
+      },
+      {
+        "subject": "G.K.",
+        "pt1": 0,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 26,
+        "total_100": 34,
+        "grade": "D",
+        "attended": true
+      },
+      {
+        "subject": "Computer",
+        "pt1": 2,
+        "pt2": 0,
+        "multiple_assessment": 4,
+        "subject_enrichment": 4,
+        "summative_80": 42,
+        "total_100": 52,
+        "grade": "C1",
+        "attended": true
+      }
+    ],
+    "co_scholastic": {
+      "drawing": "B",
+      "music": "B",
+      "uniform": "A",
+      "sports": "C",
+      "discipline": "A"
+    },
+    "attendance": {
+      "working_days": 132,
+      "present": 121,
+      "absent": 11
+    },
+    "teacher_remark": "Suraj has the ability to improve with regular study and hard work. Give more time to Social Science.",
+    "source_file": "class_2_a.docx"
+  }
+]
